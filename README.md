@@ -37,8 +37,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-
-GIF created with [Kap](https://getkap.co/) for macOS
+<!-- Replace this with whatever GIF tool you used! --> [Kap](https://getkap.co/) for macOS
+GIF created with ...
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
